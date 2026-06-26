@@ -1,0 +1,239 @@
+# GROUP_1 basic_SOV
+I eat rice
+she sees the river
+he builds the house
+mother cooks rice
+I see the fire
+she sees the house
+he sees the river
+mother builds the house
+I see the river
+she eats rice
+
+# GROUP_2 pronoun_paradigm
+I see the river
+you see the river
+he sees the river
+she sees the river
+we see the river
+you all see the river
+they see the river
+I eat rice
+you eat rice
+they eat rice
+
+# GROUP_3 present_habitual
+I am eating rice
+I eat rice
+she is seeing the river
+she sees the river
+he is building the house
+he builds the house
+mother is seeing the fire
+mother sees the fire
+I am seeing the house
+I see the house
+
+# GROUP_4 past_tense
+I ate rice
+I have eaten rice
+I had eaten rice
+she saw the river
+she has seen the river
+she had seen the river
+he built the house
+he has built the house
+he had built the house
+mother saw the fire
+
+# GROUP_5 future_tense
+I will eat rice
+I am going to eat rice
+she will see the river
+she is going to see the river
+he will build the house
+he is going to build the house
+mother will see the fire
+mother is going to see the fire
+I will see the house
+I am going to see the house
+
+# GROUP_6 negation
+I do not eat rice
+I did not eat rice
+I will not eat rice
+she does not see the river
+she did not see the river
+she will not see the river
+he does not build the house
+he did not build the house
+he will not build the house
+mother does not see the fire
+
+# GROUP_7 yes_no_questions
+do you eat rice?
+did she see the river?
+will he build the house?
+did mother see the fire?
+do we eat rice?
+did they see the river?
+will you build the house?
+does she eat rice?
+did he see the river?
+will mother build the house?
+
+# GROUP_8 wh_questions
+what are you eating?
+where did she see the river?
+when will he build the house?
+who ate the rice?
+why did you not eat rice?
+what did mother see?
+where is the house?
+when will mother eat rice?
+who built the house?
+why is she seeing the river?
+
+# GROUP_9 postpositions
+in the river
+from the river
+towards the river
+in the house
+from the house
+towards the house
+with mother
+for mother
+near the fire
+because of the fire
+
+# GROUP_10 imperative_prohibitive
+eat the rice!
+do not eat the rice!
+please eat the rice
+let us eat the rice
+eat the rice now
+see the river!
+do not see the river!
+please see the river
+build the house!
+do not build the house!
+
+# GROUP_11 modals
+I want to eat rice
+I can eat rice
+I must eat rice
+I should eat rice
+she wants to see the river
+she can see the river
+he must build the house
+he should build the house
+mother can see the fire
+mother wants to see the house
+
+# GROUP_12 adjectives
+the rice is hot
+the house is big
+mother is tall
+the fire is hot
+the river is cold
+the rice was hot
+the house will be big
+mother was tall
+the fire will be hot
+the river was cold
+
+# GROUP_13 comparison
+this rice is hotter than that
+the house is bigger than the river
+mother is taller than him
+the fire is hotter than the rice
+the river is colder than the house
+this house is the best
+the biggest house
+the hottest fire
+as big as the house
+as hot as the fire
+
+# GROUP_14 conjunctions
+I eat rice and she sees the river
+I saw the fire so I ran
+although I ate rice, I am hungry
+I will eat rice when mother comes
+he built the house and she saw it
+she saw the river because she walked
+the house is big but the river is small
+I saw the fire and mother saw the house
+we ate rice and they built the house
+I will build the house if mother sees the river
+
+# GROUP_15 conditionals
+if I eat rice now, I will not be hungry
+if she had seen the river, she would not be sad
+even if it rains, I will build the house
+if mother sees the fire, she will run
+if you build the house, I will see the river
+if he had seen the fire, he would have run
+even if the house is big, I will build it
+if we eat rice, they will see the house
+if mother cooks rice, you will eat it
+if the fire is hot, I will see it
+
+# GROUP_16 relative_clauses
+the rice that I ate was good
+mother who came yesterday
+the house where she lives
+the river that I saw
+the fire that I saw
+the house that he built is big
+mother who saw the river
+the rice that she is eating
+the river where we saw the house
+the fire that she is seeing
+
+# GROUP_17 reported_speech
+she said that she ate rice
+he asked if I saw the river
+they told me to eat rice
+mother said that she built the house
+I said that I saw the fire
+she asked if I saw the house
+he said that the house is big
+we told them to see the river
+they said that the fire is hot
+I asked if the rice is hot
+
+# GROUP_18 causatives
+I made her eat rice
+she caused him to see the river
+he got the house built
+mother made him see the fire
+I made them build the house
+she made him cook rice
+he made me see the house
+they caused the river to flow
+we caused the house to be built
+mother made her see the house
+
+# GROUP_19 passive_middle
+the rice was cooked
+the house was built
+the river was seen
+the fire was seen
+the rice is eaten
+the house is being built
+the river is being seen
+the fire is being seen
+the rice will be eaten
+the house will be built
+
+# GROUP_20 honorific_register
+I eat rice (informal)
+I eat rice (formal)
+I eat rice (written)
+mother sees the river (informal)
+mother sees the river (formal)
+mother sees the river (written)
+he builds the house (informal)
+he builds the house (formal)
+he builds the house (written)
+she sees the fire (informal)
