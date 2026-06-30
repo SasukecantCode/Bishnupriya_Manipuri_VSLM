@@ -1,0 +1,73 @@
+{"en": "I eat rice", "bpm": "Mi [Rice] khaw-ri", "placeholders": ["Rice"], "group": 1, "group_name": "basic_SOV", "session": 1, "ts": "2026-06-27T00:27:41.829606"}
+{"en": "she sees the river", "bpm": "Tei [river]-han chei-ri", "placeholders": ["river"], "group": 1, "group_name": "basic_SOV", "session": 1, "ts": "2026-06-27T00:28:12.809710"}
+{"en": "he builds the house", "bpm": "Ta [house]-go hongkor-er", "placeholders": ["house"], "group": 1, "group_name": "basic_SOV", "session": 1, "ts": "2026-06-27T00:35:42.596530"}
+{"en": "mother cooks rice", "bpm": "Ema-e [rice] radei-ri", "placeholders": ["rice"], "group": 1, "group_name": "basic_SOV", "session": 1, "ts": "2026-06-27T00:36:23.702578"}
+{"en": "I see the fire", "bpm": "Mi [fire]-go chaw-ri", "placeholders": ["fire"], "group": 1, "group_name": "basic_SOV", "session": 1, "ts": "2026-06-27T00:37:05.954060"}
+{"en": "she sees the house", "bpm": "Tei [house]-go chei-ri", "placeholders": ["house"], "group": 1, "group_name": "basic_SOV", "session": 1, "ts": "2026-06-27T00:37:27.437082"}
+{"en": "he sees the river", "bpm": "Ta [river]-han cha-ar", "placeholders": ["river"], "group": 1, "group_name": "basic_SOV", "session": 1, "ts": "2026-06-27T00:40:09.396812"}
+{"en": "mother builds the house", "bpm": "Ema-e [House]-go hongkor-iri", "placeholders": ["House"], "group": 1, "group_name": "basic_SOV", "session": 2, "ts": "2026-06-27T00:46:36.865936"}
+{"en": "I see the river", "bpm": "Mi [River]-han chaw-ri", "placeholders": ["River"], "group": 1, "group_name": "basic_SOV", "session": 2, "ts": "2026-06-27T00:49:20.732689"}
+{"en": "she eats rice", "bpm": "Tei [Rice] khei-ri", "placeholders": ["Rice"], "group": 1, "group_name": "basic_SOV", "session": 2, "ts": "2026-06-27T00:49:45.521234"}
+{"en": "you see the river", "bpm": "Ta [River]-han cha-ar", "placeholders": ["River"], "group": 2, "group_name": "pronoun_paradigm", "session": 2, "ts": "2026-06-27T00:54:03.058426"}
+{"en": "we see the river", "bpm": "Ami [River]-han chei-ar", "placeholders": ["River"], "group": 2, "group_name": "pronoun_paradigm", "session": 2, "ts": "2026-06-27T00:54:23.742081"}
+{"en": "you all see the river", "bpm": "Tumi habi [River]-han chei", "placeholders": ["River"], "group": 2, "group_name": "pronoun_paradigm", "session": 2, "ts": "2026-06-27T00:54:52.655032"}
+{"en": "they see the river", "bpm": "Tanu [River]-han chei-tara", "placeholders": ["River"], "group": 2, "group_name": "pronoun_paradigm", "session": 2, "ts": "2026-06-27T00:55:20.622058"}
+{"en": "you eat rice", "bpm": "Ti [Rice] kha", "placeholders": ["Rice"], "group": 2, "group_name": "pronoun_paradigm", "session": 2, "ts": "2026-06-27T00:56:22.651862"}
+{"en": "they eat rice", "bpm": "Tanu [Rice] khei-tara", "placeholders": ["Rice"], "group": 2, "group_name": "pronoun_paradigm", "session": 2, "ts": "2026-06-27T00:56:51.913202"}
+{"en": "I am eating rice", "bpm": "Mi ebaka [Rice] khaw-ri", "placeholders": ["Rice"], "group": 3, "group_name": "present_habitual", "session": 2, "ts": "2026-06-27T01:02:12.611142"}
+{"en": "she is seeing the river", "bpm": "Tei ebaka [River]-han chei-ri", "placeholders": ["River"], "group": 3, "group_name": "present_habitual", "session": 2, "ts": "2026-06-27T01:02:30.898970"}
+{"en": "he is building the house", "bpm": "Ta ebaka [House]-go hongkor-er", "placeholders": ["House"], "group": 3, "group_name": "present_habitual", "session": 2, "ts": "2026-06-27T01:03:01.259908"}
+{"en": "mother is seeing the fire", "bpm": "Ema ebaka [Fire]-go chei-ri", "placeholders": ["Fire"], "group": 3, "group_name": "present_habitual", "session": 2, "ts": "2026-06-27T01:03:29.616505"}
+{"en": "mother sees the fire", "bpm": "Ema-e [Fire]-go chei-ri", "placeholders": ["Fire"], "group": 3, "group_name": "present_habitual", "session": 2, "ts": "2026-06-27T01:04:06.033623"}
+{"en": "I am seeing the house", "bpm": "Mi ebaka [House]-go chaw-ri", "placeholders": ["House"], "group": 3, "group_name": "present_habitual", "session": 2, "ts": "2026-06-27T01:04:36.466615"}
+{"en": "I see the house", "bpm": "Mi [House]-go chaw-ri", "placeholders": ["House"], "group": 3, "group_name": "present_habitual", "session": 2, "ts": "2026-06-27T01:04:53.367272"}
+{"en": "I ate rice", "bpm": "Mi [rice] khei-lu", "placeholders": ["rice"], "group": 4, "group_name": "past_tense", "session": 2, "ts": "2026-06-27T01:05:13.932234"}
+{"en": "I have eaten rice", "bpm": "Mi [rice] kha-su", "placeholders": ["rice"], "group": 4, "group_name": "past_tense", "session": 2, "ts": "2026-06-27T01:07:52.841171"}
+{"en": "I had eaten rice", "bpm": "Mi  [Rice] kha-silu", "placeholders": ["Rice"], "group": 4, "group_name": "past_tense", "session": 2, "ts": "2026-06-27T01:08:29.960598"}
+{"en": "she saw the river", "bpm": "Tei [River]-han chei-lo", "placeholders": ["River"], "group": 4, "group_name": "past_tense", "session": 3, "ts": "2026-06-27T01:11:41.112024"}
+{"en": "she has seen the river", "bpm": "Tei [River]-han cha-se", "placeholders": ["River"], "group": 4, "group_name": "past_tense", "session": 4, "ts": "2026-06-27T01:15:35.555123"}
+{"en": "she had seen the river", "bpm": "Tei [River]-han cha-sili-go", "placeholders": ["River"], "group": 4, "group_name": "past_tense", "session": 4, "ts": "2026-06-27T01:16:03.748173"}
+{"en": "he built the house", "bpm": "Ta [House]-go hongkor-er", "placeholders": ["House"], "group": 4, "group_name": "past_tense", "session": 4, "ts": "2026-06-27T01:16:34.772469"}
+{"en": "he has built the house", "bpm": "Ta [House]-go hongkor-ese", "placeholders": ["House"], "group": 4, "group_name": "past_tense", "session": 5, "ts": "2026-06-27T01:19:44.103253"}
+{"en": "he had built the house", "bpm": "Ta [House]-go hongkor-esil", "placeholders": ["House"], "group": 4, "group_name": "past_tense", "session": 5, "ts": "2026-06-27T01:20:26.834615"}
+{"en": "mother saw the fire", "bpm": "Ema [Fire]-go cha-sili", "placeholders": ["Fire"], "group": 4, "group_name": "past_tense", "session": 5, "ts": "2026-06-27T01:21:44.994872"}
+{"en": "I will eat rice", "bpm": "Mi [Rice] khei-tou", "placeholders": ["Rice"], "group": 5, "group_name": "future_tense", "session": 5, "ts": "2026-06-27T01:22:19.845565"}
+{"en": "I am going to eat rice", "bpm": "Mi [Rice] khana-ka jao-ri-ga", "placeholders": ["Rice"], "group": 5, "group_name": "future_tense", "session": 5, "ts": "2026-06-27T01:23:17.247314"}
+{"en": "she will see the river", "bpm": "Tei [River]-han chei-toi", "placeholders": ["River"], "group": 5, "group_name": "future_tense", "session": 5, "ts": "2026-06-27T01:25:17.741167"}
+{"en": "she is going to see the river", "bpm": "Tei [River]-han chei-toi-ga", "placeholders": ["River"], "group": 5, "group_name": "future_tense", "session": 5, "ts": "2026-06-27T01:36:15.205818"}
+{"en": "he will build the house", "bpm": "Ta [House]-go hongkor-toi", "placeholders": ["House"], "group": 5, "group_name": "future_tense", "session": 5, "ts": "2026-06-27T01:38:37.497656"}
+{"en": "he is going to build the house", "bpm": "Ta [House]-go hongkorani-ka jar-ga", "placeholders": ["House"], "group": 5, "group_name": "future_tense", "session": 5, "ts": "2026-06-27T01:41:19.347843"}
+{"en": "mother will see the fire", "bpm": "Ema [Fire]-go chei-toi", "placeholders": ["Fire"], "group": 5, "group_name": "future_tense", "session": 5, "ts": "2026-06-27T01:42:19.626281"}
+{"en": "mother is going to see the fire", "bpm": "Ema [Fire]-go chana-ka jiri-ga", "placeholders": ["Fire"], "group": 5, "group_name": "future_tense", "session": 5, "ts": "2026-06-27T01:46:07.244336"}
+{"en": "I will see the house", "bpm": "Mi [House]-go chei-tou", "placeholders": ["House"], "group": 5, "group_name": "future_tense", "session": 5, "ts": "2026-06-27T01:46:42.933727"}
+{"en": "I am going to see the house", "bpm": "Mi [House]-go chana-ka jaori-ga", "placeholders": ["House"], "group": 5, "group_name": "future_tense", "session": 5, "ts": "2026-06-27T01:52:45.456532"}
+{"en": "I do not eat rice", "bpm": "Mi [Rice] na-khaw-ri", "placeholders": ["Rice"], "group": 6, "group_name": "negation", "session": 5, "ts": "2026-06-27T01:53:14.579474"}
+{"en": "I did not eat rice", "bpm": "Mi [Rice] nou-khasu", "placeholders": ["Rice"], "group": 6, "group_name": "negation", "session": 5, "ts": "2026-06-27T01:53:51.286921"}
+{"en": "I will not eat rice", "bpm": "Mi [Rice] nou-Khei-tou", "placeholders": ["Rice"], "group": 6, "group_name": "negation", "session": 5, "ts": "2026-06-27T01:54:07.838931"}
+{"en": "she does not see the river", "bpm": "Tei [River]-han nou-cha-se", "placeholders": ["River"], "group": 6, "group_name": "negation", "session": 5, "ts": "2026-06-27T01:58:00.965266"}
+{"en": "she did not see the river", "bpm": "Tei [River]-han nou-cha-se", "placeholders": ["River"], "group": 6, "group_name": "negation", "session": 5, "ts": "2026-06-27T01:59:43.684553"}
+{"en": "she will not see the river", "bpm": "Tei [River]-han nou-chei-toi", "placeholders": ["River"], "group": 6, "group_name": "negation", "session": 5, "ts": "2026-06-27T01:59:58.520421"}
+{"en": "he does not build the house", "bpm": "Ta [House]-go nou-hongkor-ese", "placeholders": ["House"], "group": 6, "group_name": "negation", "session": 5, "ts": "2026-06-27T02:00:26.745591"}
+{"en": "he did not build the house", "bpm": "Ta [House]-go nou-hongkor-esil", "placeholders": ["House"], "group": 6, "group_name": "negation", "session": 5, "ts": "2026-06-27T02:00:51.530157"}
+{"en": "he will not build the house", "bpm": "Ta [House]-go nou-hongkor-toi", "placeholders": ["House"], "group": 6, "group_name": "negation", "session": 5, "ts": "2026-06-27T02:01:13.788765"}
+{"en": "mother does not see the fire", "bpm": "Ema [Fire] nou-chei-ri", "placeholders": ["Fire"], "group": 6, "group_name": "negation", "session": 5, "ts": "2026-06-27T02:01:43.320817"}
+{"en": "do you eat rice?", "bpm": "Ti [Rice] khar-go?", "placeholders": ["Rice"], "group": 7, "group_name": "yes_no_questions", "session": 5, "ts": "2026-06-27T02:02:44.041336"}
+{"en": "did she see the river?", "bpm": "Tei [River]-han cheilo-go?", "placeholders": ["River"], "group": 7, "group_name": "yes_no_questions", "session": 5, "ts": "2026-06-27T02:03:18.874519"}
+{"en": "will he build the house?", "bpm": "Ta [House]-go hongkor-toi-go?", "placeholders": ["House"], "group": 7, "group_name": "yes_no_questions", "session": 5, "ts": "2026-06-27T02:03:41.806552"}
+{"en": "did mother see the fire?", "bpm": "Ema [Fire]-go chei-lo-go?", "placeholders": ["Fire"], "group": 7, "group_name": "yes_no_questions", "session": 5, "ts": "2026-06-27T02:04:05.428704"}
+{"en": "do we eat rice?", "bpm": "Ami [Rice] khei-ar-go?", "placeholders": ["Rice"], "group": 7, "group_name": "yes_no_questions", "session": 5, "ts": "2026-06-27T02:04:29.406952"}
+{"en": "did they see the river?", "bpm": "Tanu [River]-han chei-la-go?", "placeholders": ["River"], "group": 7, "group_name": "yes_no_questions", "session": 5, "ts": "2026-06-27T02:04:49.336985"}
+{"en": "will you build the house?", "bpm": "Ti [House]-go hongkor-tei-go?", "placeholders": ["House"], "group": 7, "group_name": "yes_no_questions", "session": 5, "ts": "2026-06-27T02:05:06.983641"}
+{"en": "does she eat rice?", "bpm": "Tei [Rice] khei-ri-go?", "placeholders": ["Rice"], "group": 7, "group_name": "yes_no_questions", "session": 5, "ts": "2026-06-27T02:05:26.261648"}
+{"en": "did he see the river?", "bpm": "Ta [River]-han chasil-go?", "placeholders": ["River"], "group": 7, "group_name": "yes_no_questions", "session": 5, "ts": "2026-06-27T02:06:26.013060"}
+{"en": "will mother build the house?", "bpm": "Ema [House]-go hongkor-toi-go?", "placeholders": ["House"], "group": 7, "group_name": "yes_no_questions", "session": 5, "ts": "2026-06-27T02:06:53.064305"}
+{"en": "what are you eating?", "bpm": "Ti kita khar-ta?", "placeholders": [], "group": 8, "group_name": "wh_questions", "session": 5, "ts": "2026-06-27T02:07:50.599119"}
+{"en": "where did she see the river?", "bpm": "Tei [River]-han kumpei cheilo-ta?", "placeholders": ["River"], "group": 8, "group_name": "wh_questions", "session": 5, "ts": "2026-06-27T02:08:29.021383"}
+{"en": "when will he build the house?", "bpm": "Ta [House]-go kumbaka hongor-toi-go?", "placeholders": ["House"], "group": 8, "group_name": "wh_questions", "session": 5, "ts": "2026-06-27T02:09:01.193989"}
+{"en": "who ate the rice?", "bpm": "Kungoi [Rice] kheilo-ta?", "placeholders": ["Rice"], "group": 8, "group_name": "wh_questions", "session": 5, "ts": "2026-06-27T02:09:38.779168"}
+{"en": "why did you not eat rice?", "bpm": "Ti [Rice] kya nau-kheile-ta?", "placeholders": ["Rice"], "group": 8, "group_name": "wh_questions", "session": 5, "ts": "2026-06-27T02:10:12.538737"}
+{"en": "what did mother see?", "bpm": "Ema-e kita cheilo-ta?", "placeholders": [], "group": 8, "group_name": "wh_questions", "session": 5, "ts": "2026-06-27T02:10:41.407653"}
+{"en": "where is the house?", "bpm": "Kumpei ase ta [House]-go?", "placeholders": ["House"], "group": 8, "group_name": "wh_questions", "session": 5, "ts": "2026-06-27T02:11:25.201057"}
+{"en": "when will mother eat rice?", "bpm": "Ema kumbaka [Rice] khei-toi-go?", "placeholders": ["Rice"], "group": 8, "group_name": "wh_questions", "session": 5, "ts": "2026-06-27T02:12:09.771269"}
+{"en": "who built the house?", "bpm": "Kungoi [house]-go hongkorlo-ta?", "placeholders": ["house"], "group": 8, "group_name": "wh_questions", "session": 5, "ts": "2026-06-27T02:14:04.829408"}
+{"en": "why is she seeing the river?", "bpm": "Tei-te kya [River]-han cheiri-ta?", "placeholders": ["River"], "group": 8, "group_name": "wh_questions", "session": 5, "ts": "2026-06-27T02:14:43.862419"}
